@@ -1,0 +1,7 @@
+{
+  "name": "pachinko",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
