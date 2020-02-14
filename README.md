@@ -2,7 +2,7 @@
 
 Pachinko is a simple mobile wallet to store and transfer Pahcinko Coins.
 
-**_Kidlet is built on top of [Nempay](https://github.com/dgarcia360/NEMPay)_**
+Pachinko is built on top of [Nempay](https://github.com/dgarcia360/NEMPay)
 
 Pachinko is a customized version of Nempay except users can only store and transfer Pachinko coins.
 All provided features of Nempay can be done in Kidlet.
