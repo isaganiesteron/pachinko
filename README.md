@@ -1,10 +1,10 @@
-## Kidlet
+## Pachinko
 
-Kidlet is a simple mobile wallet to store and transfer Xem and Kidlet Coins.
+Pachinko is a simple mobile wallet to store and transfer pachinko coins.
 
-####Kidlet is built on top of [Nempay](https://github.com/dgarcia360/NEMPay)
+####Pachinko is built on top of [Nempay](https://github.com/dgarcia360/NEMPay)
 
-Kidlet is a customized version of Nempay except users can only store and transfer Xem and Kidlet Coins.
+Pachinko is a customized version of Nempay except users can only store and transfer Pachinko coins.
 All provided features of Nempay can be done in Kidlet.
 ### Provided Features
 * Create/Import Account
@@ -16,7 +16,7 @@ All provided features of Nempay can be done in Kidlet.
 * View transactions
 * Share Address
 
-#### Extra features of Kidlet
+#### Extra features of Pachinko
 * Notification when mosiac balance increases.
 * Fingerprint authentication
 * And more
